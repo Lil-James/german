@@ -4,187 +4,187 @@
 translate german scene1_acf2102c:
 
     # centered "{size=+12}Summer of the 9th year of Heisei era\n(1997){/size}"
-    centered "{size=+12}Summer of the 9th year of Heisei era\n(1997){/size}"
+    centered "{size=+12}Sommer der Heisei-Zeit\n(1997){/size}"
 
 # game/dialogs.rpy:6
 translate german scene1_dd8c4dd5:
 
     # "Life has a way of changing. Often drastically without any warnings whatsoever."
-    "Life has a way of changing. Often drastically without any warnings whatsoever."
+    "Das Leben hat seinen eigenen Weg der Veränderung. Oft drastisch und ohne Vorwarnung."
 
 # game/dialogs.rpy:7
 translate german scene1_0497b746:
 
     # "At first, a day may seem like any other."
-    "At first, a day may seem like any other."
+    "Zu Anfang erscheint ein Tag wie jeder andere."
 
 # game/dialogs.rpy:8
 translate german scene1_1ab3b689:
 
     # "But by tomorrow, it can all change...{p}from where you live, to who you are as a person."
-    "But by tomorrow, it can all change...{p}from where you live, to who you are as a person."
+    "Am nächsten Tag jedoch, kann sich alles ändern...{p}nicht nur von wo du lebst, sondern auch wer du bist, als Person."
 
 # game/dialogs.rpy:9
 translate german scene1_522a76b6:
 
     # "Recently, I've experienced such a large change."
-    "Recently, I've experienced such a large change."
+    "Echt nur vor kurzer Zeit habe ich eine solche große Veränderung erfahren."
 
 # game/dialogs.rpy:10
 translate german scene1_011ea937:
 
     # "My dad wanted to start his own grocery shop. So my parents and I moved to a small village near Osaka."
-    "My dad wanted to start his own grocery shop. So my parents and I moved to a small village near Osaka."
+    "Mein Vater wollte seinen eigenen Lebensmittelgeschäft aufmachen. Aus diesem Grund sind meine Eltern und Ich zu einem kleinen Dorf, nähe Osaka gezogen."
 
 # game/dialogs.rpy:11
 translate german scene1_2b371705:
 
     # "I thought I would have a hard time readjusting."
-    "I thought I would have a hard time readjusting."
+    "Es war für mich eine sehr harte Zeit, mich einzuleben."
 
 # game/dialogs.rpy:12
 translate german scene1_a26a5f2b:
 
     # "The move from Tokyo to a small lost village, far from a big city with shops and fast-food restaurants..."
-    "The move from Tokyo to a small lost village, far from a big city with shops and fast-food restaurants..."
+    "Die umstellung von Tokyo zu einem kleinen verlorenen Dorf, weit weg von einer großen Stadt mit Läden und Fast-Food-Ketten..."
 
 # game/dialogs.rpy:13
 translate german scene1_fa8a1f18:
 
     # "Being a 18-year-old student, it would be difficult. I was used to the excitement of the big city."
-    "Being a 18-year-old student, it would be difficult. I was used to the excitement of the big city."
+    "Es ist hart für einen 18-jährigen Schüler, wie mich. Ich war von der unendlichen Bewegund des Großstadtlebens total verwöhnt"
 
 # game/dialogs.rpy:14
 translate german scene1_8d6f1c40:
 
     # "However, even before my first day of school, my life would change."
-    "However, even before my first day of school, my life would change."
+    "Wie auch immer, mein Leben sollte sich bald ändern... Schon vor meinen ersten Schultag."
 
 # game/dialogs.rpy:19
 translate german scene1_d7a7c4a2:
 
     # centered "{size=+35}CHAPTER 1\nWhere everything started{fast}{/size}"
-    centered "{size=+35}CHAPTER 1\nWhere everything started{fast}{/size}"
+    centered "{size=+35}KAPITEL 1\nWie alles begann{fast}{/size}"
 
 # game/dialogs.rpy:26
 translate german scene1_5bb0286e:
 
     # "It's sunday evening, after dinner."
-    "It's sunday evening, after dinner."
+    "Es ist Sonntagabend, nach dem Abendessen."
 
 # game/dialogs.rpy:27
 translate german scene1_a651e12e:
 
     # "My stuff is all unpacked and placed in my new room."
-    "My stuff is all unpacked and placed in my new room."
+    "Meine Sachen sind alle ausgepackt und bereits im meinem neuen Zimmer platziert."
 
 # game/dialogs.rpy:28
 translate german scene1_54a8b155:
 
     # "I love this new look!"
-    "I love this new look!"
+    "Ich liebe diesen neuen Look!"
 
 # game/dialogs.rpy:29
 translate german scene1_8bb96761:
 
     # "It sure is smaller than my previous bedroom, but it's not like I needed that much space."
-    "It sure is smaller than my previous bedroom, but it's not like I needed that much space."
+    "Es ist sicherlich kleiner als mein altes Zimmer, aber es ist ja nicht so als würde ich nun so viel Platz brauchen."
 
 # game/dialogs.rpy:30
 translate german scene1_acf53d85:
 
     # "As long as I have room to sleep, play games, watch anime, and geek out, it's all good."
-    "As long as I have room to sleep, play games, watch anime, and geek out, it's all good."
+    "So lange ich einen Raum habe um zu Schlafen, Spielen, Animes gucken und es sich einfach gut gehen zu lassen, ist ja alles gut.."
 
 # game/dialogs.rpy:31
 translate german scene1_7d722416:
 
     # "I'm not sure what I should do before going to bed."
-    "I'm not sure what I should do before going to bed."
+    "Nun ich bin mir jetzt nicht sicher was ich tun soll vor dem schlafen gehen."
 
 # game/dialogs.rpy:32
 translate german scene1_b2b74adf:
 
     # "I could study a bit, so I don't look too dumb at school tomorrow..."
-    "I could study a bit, so I don't look too dumb at school tomorrow..."
+    "Ich sollte vielleicht ein bisschen lernen, so komme ich morgen in der Schule nicht so dumm rüber..."
 
 # game/dialogs.rpy:33
 translate german scene1_ad0d9f75:
 
     # "But I also want to rest and have a bit of fun..."
-    "But I also want to rest and have a bit of fun..."
+    "Aber ich will mich auch ein bisschen ausruhen und Spaß haben..."
 
 # game/dialogs.rpy:48
 translate german scene1_e05b5690:
 
     # "I should play a short game, or I'll stay up too long. So I decide to play some {i}Tetranet online{/i}."
-    "I should play a short game, or I'll stay up too long. So I decide to play some {i}Tetranet online{/i}."
+    "Ich darf kein zu langes Spiel spielen, sonst bleib ich zu lange wach. Hab mich also entschieden {i}Тетранет онлайн{/i} zu spielen."
 
 # game/dialogs.rpy:49
 translate german scene1_7170a1ff:
 
     # "It's a puzzle game with blocks. The online version lets you attack your opponents and flood them with their own blocks."
-    "It's a puzzle game with blocks. The online version lets you attack your opponents and flood them with their own blocks."
+    "Es ist ein Puzzlespiel mit blöcken. Die Online version lässt mit bestimmten Attacken, deine Gegner mit Blöcken umzingeln."
 
 # game/dialogs.rpy:50
 translate german scene1_8dd01706:
 
     # "After a few minutes, I found myself in a game room. One of the players named 'NAMINAMI' had two stars in front of their name."
-    "After a few minutes, I found myself in a game room. One of the players named 'NAMINAMI' had two stars in front of their name."
+    "Nach 10 Minuten traf ich einen anderen Spieler namens \"NAMINAMI\" mit zwei Sternen vor ihren Namen."
 
 # game/dialogs.rpy:51
 translate german scene1_962ec706:
 
     # "Two stars meant that they had won hundreds of games online. Since three stars are for the game developers, I guess that means I'm up against a pro of this game."
-    "Two stars meant that they had won hundreds of games online. Since three stars are for the game developers, I guess that means I'm up against a pro of this game."
+    "Diese Sterne bedeuten, dass der Spieler nach 100 Herausforderungen komplett ungeschlagen ist. Seit drei Sterne für Entwickler steht, glaube ich das sie eine Art Weltmeister sind."
 
 # game/dialogs.rpy:52
 translate german scene1_a71313b4:
 
     # "Judging by the low ping, I guess they live around the same prefecture I live in. Small world..."
-    "Judging by the low ping, I guess they live around the same prefecture I live in. Small world..."
+    "Der geringe Ping verrät auch, das sie in der selben Gegend sich befinden müssen. Hach die Welt is so klein..."
 
 # game/dialogs.rpy:53
 translate german scene1_e0301d9f:
 
     # "In the dozens of games we played, NAMINAMI continued to beat everyone in the game room. But I was always the last one to fall."
-    "In the dozens of games we played, NAMINAMI continued to beat everyone in the game room. But I was always the last one to fall."
+    "In den dutzend Spielen die ich gespielt habe, hat NAMINAMI jeden im Gameroom fertig gemacht, ich war jedoch der letzte der gegen sie verlor."
 
 # game/dialogs.rpy:55
 translate german scene1_a40571de:
 
     # write "NAMINAMI> GG dude, u pretty much rock at this game!{fast}"
-    write "NAMINAMI> GG dude, u pretty much rock at this game!{fast}"
+    write "NAMINAMI> Hey Mann, du gehst ja richtig ab im Spiel!{fast}"
 
 # game/dialogs.rpy:57
 translate german scene1_7c6f0607:
 
     # write "%(stringhero)s>{fast} Nah i'm not that good"
-    write "%(stringhero)s>{fast} Nah i'm not that good"
+    write "%(stringhero)s>{fast} Achwas ich bin nicht so gut"
 
 # game/dialogs.rpy:59
 translate german scene1_0d6dddc9:
 
     # write "NAMINAMI> yes u r. i had trouble winning against u.{fast}"
-    write "NAMINAMI> yes u r. i had trouble winning against u.{fast}"
+    write "NAMINAMI> Doch bist du. Es war echt schwer gegen dich zu gewinnen.{fast}"
 
 # game/dialogs.rpy:61
 translate german scene1_87ab3c60:
 
     # write "NAMINAMI> care 4 a rematch? just u and me?{fast}"
-    write "NAMINAMI> care 4 a rematch? just u and me?{fast}"
+    write "NAMINAMI> Lust auf ein Rematch? Nur du und ich?{fast}"
 
 # game/dialogs.rpy:63
 translate german scene1_828e7297:
 
     # write "%(stringhero)s>{fast} Maybe next time. It's getting late, i have school tomorrow."
-    write "%(stringhero)s>{fast} Maybe next time. It's getting late, i have school tomorrow."
+    write "%(stringhero)s>{fast} Vielleicht nächstes mal. Es wird spät und morgen ist Schule."
 
 # game/dialogs.rpy:65
 translate german scene1_0d8de120:
 
     # write "NAMINAMI> ur rite, me 2 anyway. hope 2 c u again soon!{fast}"
-    write "NAMINAMI> ur rite, me 2 anyway. hope 2 c u again soon!{fast}"
+    write "NAMINAMI> Hast recht, ich auch. Hoffe man sieht sich wieder!{fast}"
 
 # game/dialogs.rpy:66
 translate german scene1_76b2fe88:
@@ -196,37 +196,37 @@ translate german scene1_76b2fe88:
 translate german scene1_ee02f0bc:
 
     # "I decide to watch some old episodes of the anime based on my favorite manga, {i}High School Samurai{/i}."
-    "I decide to watch some old episodes of the anime based on my favorite manga, {i}High School Samurai{/i}."
+    "Ich habe ein paar alte Episoden angesehen von meinem Lieblingsmanga, {i}High School Samurai{/i}."
 
 # game/dialogs.rpy:74
 translate german scene1_d91b4fcd:
 
     # "It's the story about a guy who lived in the mountains, learning the ways of Bushido. Then, all of a sudden, he must go to a new town to learn about life in the city."
-    "It's the story about a guy who lived in the mountains, learning the ways of Bushido. Then, all of a sudden, he must go to a new town to learn about life in the city."
+    "Es ist eine Geschichte über einen Jungen der in den Bergen lebte und den Weg des Bushido praktizierte, musste aber in eine Stadt umziehen, um das Leben dort zu lernen."
 
 # game/dialogs.rpy:75
 translate german scene1_e72d0922:
 
     # "He resolves a lot of his problems with his samurai skills and his heroic determination."
-    "He resolves a lot of his problems with his samurai skills and his heroic determination."
+    "Er konnte sehr viele Probleme lösen mit seinen Samuraifähigkeiten und seiner heldenhaften Entschlossenheit."
 
 # game/dialogs.rpy:80
 translate german scene1_a19cfb71:
 
     # hero "I decide to study. Keep up the great work, %(stringhero)s!"
-    hero "I decide to study. Keep up the great work, %(stringhero)s!"
+    hero "Ich sollte lieber mehr lernen. %(stringhero)s!"
 
 # game/dialogs.rpy:82
 translate german scene1_ad5fbe82:
 
     # "I studied until very late at night."
-    "I studied until very late at night."
+    "Ich habe bis spät in der Nacht gelernt."
 
 # game/dialogs.rpy:84
 translate german scene1_2f455d53:
 
     # "I don't know how long I stayed up, but I was so tired, I ended up falling asleep..."
-    "I don't know how long I stayed up, but I was so tired, I ended up falling asleep..."
+    "Ich hab keine Ahnung mehr wann ich mich schlafen gelegt habe aber ich war so müde, dass ich nicht mal in der Lage war aufzustehen..."
 
 # game/dialogs.rpy:89
 translate german scene1_cb77d3d7:
@@ -238,259 +238,259 @@ translate german scene1_cb77d3d7:
 translate german scene1_4037429a:
 
     # "I switched off the alarm clock and went back to sleep again."
-    "I switched off the alarm clock and went back to sleep again."
+    "Habe den Wecker ausgemacht und mich wieder schlafen gelegt."
 
 # game/dialogs.rpy:92
 translate german scene1_548721a3:
 
     # hero "I'm so tired..."
-    hero "I'm so tired..."
+    hero "Ich bin so müde..."
 
 # game/dialogs.rpy:93
 translate german scene1_2a13d6dc:
 
     # "Mom" "%(stringhero)s!! Wake up!!! You'll be late for school!!!"
-    "Mom" "%(stringhero)s!! Wake up!!! You'll be late for school!!!"
+    "Mom" "%(stringhero)s!! Wach auf!! Du kommst zu spät zur Schule!!!"
 
 # game/dialogs.rpy:94
 translate german scene1_c83937b9:
 
     # hero "Huh... What time is it..."
-    hero "Huh... What time is it..."
+    hero "Hä... Wie spät ist es denn..."
 
 # game/dialogs.rpy:95
 translate german scene1_fc1e319f:
 
     # "Wait... 8:02AM?!{p} School starts at 8:30AM!!!"
-    "Wait... 8:02AM?!{p} School starts at 8:30AM!!!"
+    "Moment... 8:02.{p}Und die Schule fängt 8:30 an."
 
 # game/dialogs.rpy:97
 translate german scene1_4217b105:
 
     # hero "Dangit!"
-    hero "Dangit!"
+    hero "Verdammt!"
 
 # game/dialogs.rpy:99
 translate german scene1_62c6f195:
 
     # hero "I stayed up and played too much! I'm late!"
-    hero "I stayed up and played too much! I'm late!"
+    hero "Ich habe zu lange gezockt! Ich bin spät dran!"
 
 # game/dialogs.rpy:101
 translate german scene1_b8605e00:
 
     # hero "I watched too much anime! I'm late!"
-    hero "I watched too much anime! I'm late!"
+    hero "Ich war zu lange wach! Ich komme zu spät!"
 
 # game/dialogs.rpy:103
 translate german scene1_a476aee9:
 
     # hero "I studied too much! I'm late!"
-    hero "I studied too much! I'm late!"
+    hero "Ich habe zu lange gelernt! Ich verspäte mich!"
 
 # game/dialogs.rpy:106
 translate german scene1_0ff90bcf:
 
     # "I jumped out of bed, put on my brand new school uniform, and ran down the stairs."
-    "I jumped out of bed, put on my brand new school uniform, and ran down the stairs."
+    "Ich bin aus meinen Bett gesprungen, schlüpfte in meine brandneue Schuluniform und rannte die Treppen runter."
 
 # game/dialogs.rpy:108
 translate german scene1_5c1508de:
 
     # "I ate my breakfast faster than usual."
-    "I ate my breakfast faster than usual."
+    "Ich habe mein Frühstück fast nur runtergeschluckt, ohne zu kauen."
 
 # game/dialogs.rpy:109
 translate german scene1_6a44f1a3:
 
     # "I took a map with a route to school and left after saying goodbye to my parents."
-    "I took a map with a route to school and left after saying goodbye to my parents."
+    "Ich habe mir eine Karte mit dem Schulweg genommen und das Haus verlassen, nachdem ich mich von meinen Eltern verabschiedete."
 
 # game/dialogs.rpy:112
 translate german scene1_ad63def5:
 
     # "I followed the map and dashed through the streets."
-    "I followed the map and dashed through the streets."
+    "Ich folgte der Karte und rannte durch die Straßen wie ein Irrer."
 
 # game/dialogs.rpy:113
 translate german scene1_00e59ce7:
 
     # "This town looks pretty unique."
-    "This town looks pretty unique."
+    "Dieses Dörfchen sieht sehr eigen aus."
 
 # game/dialogs.rpy:114
 translate german scene1_689e5094:
 
     # "It's a strange town, like a mix between a suburb and a rural village."
-    "It's a strange town, like a mix between a suburb and a rural village."
+    "Es ist ein komisches Dorf. Eine Mischung aus Vorort und ein ländliches Dörflein ."
 
 # game/dialogs.rpy:115
 translate german scene1_a64e7e8b:
 
     # "Summer had just arrived. The cicadas were crying. And it sure was hot out here..."
-    "Summer had just arrived. The cicadas were crying. And it sure was hot out here..."
+    "Sommer hat gerade erst angefangen. Die Zikaden machen laute Geräusche wie üblich in Japan und es ist heiß."
 
 # game/dialogs.rpy:116
 translate german scene1_71061539:
 
     # "I noticed only a few people on the streets."
-    "I noticed only a few people on the streets."
+    "Bis jetzt hab ich nur wenige Leute gesehen."
 
 # game/dialogs.rpy:117
 translate german scene1_1d275b47:
 
     # "Some of them were kind enough to help me find my way to the school..."
-    "Some of them were kind enough to help me find my way to the school..."
+    "Manche von ihnen waren so Nett mir zu helfen den Schulweg zu finden..."
 
 # game/dialogs.rpy:118
 translate german scene1_e123d412:
 
     # "Then, as I was nearing an intersection..."
-    "Then, as I was nearing an intersection..."
+    "Dann plötzlich als ich nahe einer Kreuzung war..."
 
 # game/dialogs.rpy:119
 translate german scene1_da3e8686:
 
     # "I see a girl in a school uniform."
-    "I see a girl in a school uniform."
+    "Sah ich ein Mädchen in einer Schuluniform."
 
 # game/dialogs.rpy:121
 translate german scene1_72d48eb1:
 
     # hero "Well, since village only has one school...that must be where she's heading!"
-    hero "Well, since village only has one school...that must be where she's heading!"
+    hero "Da dieses Dorf nur eine einzige Schule hat, muss sie ja genau in die Richtung gehen!"
 
 # game/dialogs.rpy:122
 translate german scene1_018ee7a3:
 
     # hero "And if that is where she's going, maybe she could help me out!"
-    hero "And if that is where she's going, maybe she could help me out!"
+    hero "Und wenn es tatsächlich so ist, kann sie mir vielleicht helfen!"
 
 # game/dialogs.rpy:123
 translate german scene1_a95f40e0:
 
     # "I approached her carefully, as I didn't want to scare her."
-    "I approached her carefully, as I didn't want to scare her."
+    "Ich habe mich vorsichtig genähert um sie nicht zu erschrecken."
 
 # game/dialogs.rpy:124
 translate german scene1_b0e8ce5c:
 
     # "She looked beautiful; long black hair, thin body, and beautiful legs..."
-    "She looked beautiful; long black hair, thin body, and beautiful legs..."
+    "Sie war so wunderschön; seidiges langes schwarzes Haar, einen schlanken Körper und wunderschöne Beine..."
 
 # game/dialogs.rpy:125
 translate german scene1_d501d47f:
 
     # "I hesitated for a moment before saying anything..."
-    "I hesitated for a moment before saying anything..."
+    "Ich zögerte für einen moment, bevor ich irgendwas sagte..."
 
 # game/dialogs.rpy:126
 translate german scene1_9195ee62:
 
     # hero "Ahem... Excuse me, miss?"
-    hero "Ahem... Excuse me, miss?"
+    hero "Ähäm... Entschuldie junge Frau?"
 
 # game/dialogs.rpy:131
 translate german scene1_951b2409:
 
     # "She turned around to face me."
-    "She turned around to face me."
+    "Sie drehte sich zu mir um."
 
 # game/dialogs.rpy:132
 translate german scene1_b7723325:
 
     # "Oh wow! She was insanely pretty!"
-    "Oh wow! She was insanely pretty!"
+    "Oh Gott! Sie war wirklich wunderschön!"
 
 # game/dialogs.rpy:133
 translate german scene1_64e26830:
 
     # "Her eyes were blue.{p}A wonderful, deep, ocean blue. They were like the clear waters you'd find in Hawaii!"
-    "Her eyes were blue.{p}A wonderful, deep, ocean blue. They were like the clear waters you'd find in Hawaii!"
+    "Ihre Augen waren blau.{p}Ein wunderschönes tiefes meeresblau. Und ich meine wie ein reines Ozean, wie die in Hawaii!"
 
 # game/dialogs.rpy:134
 translate german scene1_a28c7063:
 
     # "She looked at me, confused, and a bit timid."
-    "She looked at me, confused, and a bit timid."
+    "Sie schaute zu mir verwirrt... und schüchtern."
 
 # game/dialogs.rpy:136
 translate german scene1_40d86de1:
 
     # s "Yes?"
-    s "Yes?"
+    s "Ja?"
 
 # game/dialogs.rpy:137
 translate german scene1_013ed851:
 
     # "Wow! Her voice sounds so adorable!"
-    "Wow! Her voice sounds so adorable!"
+    "Wow! Ihre stimme ist so süß!"
 
 # game/dialogs.rpy:138
 translate german scene1_ed63afd9:
 
     # "She is so cute, that I was at a loss for words."
-    "She is so cute, that I was at a loss for words."
+    "Sie war so süß, dass ich nicht wusste was ich sagen sollte."
 
 # game/dialogs.rpy:139
 translate german scene1_d015b36e:
 
     # hero "Uhhh... I'm new in the village, and I'm trying to find my school."
-    hero "Uhhh... I'm new in the village, and I'm trying to find my school."
+    hero "Ähhhm... Ich bin neu im Dorf und ich suche den richtigen Weg zur Schule."
 
 # game/dialogs.rpy:140
 translate german scene1_759f29b6:
 
     # hero "And since you're wearing a uniform... I thought you could..."
-    hero "And since you're wearing a uniform... I thought you could..."
+    hero "Und da du eine Uniform trägst... Dachte ich du könntest mir..."
 
 # game/dialogs.rpy:141
 translate german scene1_9c182eb6:
 
     # "The girl stared at me with her big, majestic, blue eyes..."
-    "The girl stared at me with her big, majestic, blue eyes..."
+    "Das Mädchen starrte mich an mit ihren riesigen, funkelnden, blauen Augen..."
 
 # game/dialogs.rpy:142
 translate german scene1_e85ec319:
 
     # "Finally, she smiled."
-    "Finally, she smiled."
+    "Und endlich kam ein lächeln."
 
 # game/dialogs.rpy:144
 translate german scene1_208138e6:
 
     # s "Of course I can!"
-    s "Of course I can!"
+    s "Klar kann ich!"
 
 # game/dialogs.rpy:145
 translate german scene1_d94b34fa:
 
     # s "I'm going there right now. You can follow me!"
-    s "I'm going there right now. You can follow me!"
+    s "Ich bin grad auf dem Weg dahin. Folg mir einfach!"
 
 # game/dialogs.rpy:146
 translate german scene1_453ef329:
 
     # hero "That would be great! Thank you!"
-    hero "That would be great! Thank you!"
+    hero "Das ist nett von dir! Danke!"
 
 # game/dialogs.rpy:150
 translate german scene1_ef8271d0:
 
     # "We ended up walking to school together."
-    "We ended up walking to school together."
+    "Und so gingen wir zusammen den Schulweg entlang."
 
 # game/dialogs.rpy:151
 translate german scene1_e8a9e895:
 
     # "Darn, looks like it's my lucky day. {p}I'm walking to school with a beautiful girl on the first day!!!"
-    "Darn, looks like it's my lucky day. {p}I'm walking to school with a beautiful girl on the first day!!!"
+    "Oh Mann, sieht so aus als wäre es mein Glückstag... {p}Erster Schultag und ich gehe hin mit einem hübschen Mädchen dahin!"
 
 # game/dialogs.rpy:152
 translate german scene1_cb9f5aad:
 
     # s "You said you're new in town, right?"
-    s "You said you're new in town, right?"
+    s "Du sagtest du bist neu hier im Dorf, nicht wahr?"
 
 # game/dialogs.rpy:153
 translate german scene1_36317276:
@@ -502,169 +502,169 @@ translate german scene1_36317276:
 translate german scene1_ecbbbe32:
 
     # "I had been daydreaming, so I didn't notice that she was talking to me."
-    "I had been daydreaming, so I didn't notice that she was talking to me."
+    "I habe vor mich hingeträumt, dass ich gar nicht bemerkte das sie mit mir sprach."
 
 # game/dialogs.rpy:156
 translate german scene1_d86baf24:
 
     # "She started to blush."
-    "She started to blush."
+    "Sie wurde ein bisschen rot im Gesicht."
 
 # game/dialogs.rpy:158
 translate german scene1_0408e4ff:
 
     # s "Oh... I'm sorry! I didn't mean to surprise you!"
-    s "Oh... I'm sorry! I didn't mean to surprise you!"
+    s "Oh... Tut mir leid! Ich wollte dich nicht erschrecken!"
 
 # game/dialogs.rpy:159
 translate german scene1_004a1338:
 
     # "She's just so adorable! I smiled to myself."
-    "She's just so adorable! I smiled to myself."
+    "Sie war so süß. Ich musste einfach lächeln in dem moment."
 
 # game/dialogs.rpy:160
 translate german scene1_02ac9e9f:
 
     # hero "You're not!{p}Actually, I just arrived last Friday. My family just moved here from Tokyo."
-    hero "You're not!{p}Actually, I just arrived last Friday. My family just moved here from Tokyo."
+    hero "Nein, hast du gar nicht!{p}Ich bin erst letzten Freitag angekommen, Meine Familie ist aus Tokyo hier her gezogen."
 
 # game/dialogs.rpy:162
 translate german scene1_b0c354bc:
 
     # s "You're from Tokyo?"
-    s "You're from Tokyo?"
+    s "Du kommst aus Tokyo?"
 
 # game/dialogs.rpy:163
 translate german scene1_7273bcfc:
 
     # s "It seems like a wonderful city! I wish I could visit it someday!"
-    s "It seems like a wonderful city! I wish I could visit it someday!"
+    s "Das ist so eine wunderschöne Stadt! Ich wünsche mir das ich eines Tages einen Ausflug dahin machen kann!"
 
 # game/dialogs.rpy:164
 translate german scene1_e87c5166:
 
     # hero "I bet... I noticed there are fewer distractions here than in Tokyo."
-    hero "I bet... I noticed there are fewer distractions here than in Tokyo."
+    hero "Auf jeden Fall... Seit wir hier sind habe ich nichts mehr aufregendes gesehen wie in Tokyo"
 
 # game/dialogs.rpy:166
 translate german scene1_6ab8e3af:
 
     # s "Mmhmm, it's true. The village is kinda quiet; so there's usually nothing to do..."
-    s "Mmhmm, it's true. The village is kinda quiet; so there's usually nothing to do..."
+    s "Hm ja stimmt schon. Dieses Dorf hier ist schon sehr ruhig; Es gibt nichts was man hier unternehmen kann..."
 
 # game/dialogs.rpy:167
 translate german scene1_f5cb34b6:
 
     # s "When we want to enjoy ourselves, we usually go to the nearest city."
-    s "When we want to enjoy ourselves, we usually go to the nearest city."
+    s "Wenn wir uns amüsieren wollen, fahren wir immer in die nächste Stadt."
 
 # game/dialogs.rpy:169
 translate german scene1_f471c6c0:
 
     # s "It's only a short train ride away, so it's okay!"
-    s "It's only a short train ride away, so it's okay!"
+    s "Aber wir haben einen Zug der direkt hin fährt, also ist es in Ordnung!"
 
 # game/dialogs.rpy:170
 translate german scene1_6136ebba:
 
     # hero "There's a train that takes you to the city nearby!?"
-    hero "There's a train that takes you to the city nearby!?"
+    hero "Ein Zug? Der in die nächste Stadt fährt!?"
 
 # game/dialogs.rpy:171
 translate german scene1_bbdac77d:
 
     # hero "I hope there's a lot of stuff to do there."
-    hero "I hope there's a lot of stuff to do there."
+    hero "Ich hoffe da kann man viel machen."
 
 # game/dialogs.rpy:172
 translate german scene1_aa2bb7ad:
 
     # s "There is, don't worry! There are fast food restaurants, shops, arcades..."
-    s "There is, don't worry! There are fast food restaurants, shops, arcades..."
+    s "Kann man, keine sorge! Da sind Fast-Food-Ketten, Läden, Arcaden..."
 
 # game/dialogs.rpy:173
 translate german scene1_cd44299c:
 
     # hero "You like arcade games?"
-    hero "You like arcade games?"
+    hero "Du stehst auf Arcadespiele?"
 
 # game/dialogs.rpy:175
 translate german scene1_69578672:
 
     # s "Very much so!"
-    s "Very much so!"
+    s "Oh ja!"
 
 # game/dialogs.rpy:176
 translate german scene1_13bf5fa0:
 
     # s "I'm especially a fan of music and rhythm games, but I enjoy shooting games too!"
-    s "I'm especially a fan of music and rhythm games, but I enjoy shooting games too!"
+    s "Ich bin eigentlich ein Fan von Musik und Rythmusspiele, aber ich mag auch sehr Schießspiele!"
 
 # game/dialogs.rpy:177
 translate german scene1_0fef1f71:
 
     # hero "Shooting games?"
-    hero "Shooting games?"
+    hero "Schießspiele?"
 
 # game/dialogs.rpy:178
 translate german scene1_ad5c53dd:
 
     # "Wow... I couldn't imagine such a cute and timid girl shooting zombies or soldiers in an arcade game..."
-    "Wow... I couldn't imagine such a cute and timid girl shooting zombies or soldiers in an arcade game..."
+    "Wow... Ich kann mir einfach nicht vorstellen wie so ein süßes, schüchternes Mädchen irgendwelche Zombies oder Soldaten abknallt..."
 
 # game/dialogs.rpy:179
 translate german scene1_45a2a82d:
 
     # hero "By the way, what grade are you in?"
-    hero "By the way, what grade are you in?"
+    hero "Was auch immer. In welcher Klasse bist du?"
 
 # game/dialogs.rpy:181
 translate german scene1_68018eef:
 
     # s "I'm in the second section."
-    s "I'm in the second section."
+    s "Ich bin in der zweiten Sektion."
 
 # game/dialogs.rpy:182
 translate german scene1_4c52535b:
 
     # hero "Uh...Second section?"
-    hero "Uh...Second section?"
+    hero "Uh...Zweite Sektion?"
 
 # game/dialogs.rpy:183
 translate german scene1_3b1fd997:
 
     # s "You see, our school is the only school in the village."
-    s "You see, our school is the only school in the village."
+    s "Du weist ja, es ist die einzige Schule im Dorf."
 
 # game/dialogs.rpy:184
 translate german scene1_7e47a0e7:
 
     # s "There are students of many different ages and grades at our school, but there's an unbalanced amount of students for the usual grade system."
-    s "There are students of many different ages and grades at our school, but there's an unbalanced amount of students for the usual grade system."
+    s "Und die Schüler sind alle komplett verschiedenen Alters. Da man dieses Problem mit dem klassischen Klassensystem nicht mehr lösen kann, gibt es Sektionen."
 
 # game/dialogs.rpy:185
 translate german scene1_a82424ad:
 
     # s "So they made different classes, called sections, consisting of 25 students each, which are made up of students of different ages and grades."
-    s "So they made different classes, called sections, consisting of 25 students each, which are made up of students of different ages and grades."
+    s "Also verschiedene Klassen mit je 25 Schülern unterteilt."
 
 # game/dialogs.rpy:186
 translate german scene1_b83c9923:
 
     # hero "That sounds fun... I wonder where I'll be assigned to..."
-    hero "That sounds fun... I wonder where I'll be assigned to..."
+    hero "Hört sich ja spaßig an... Frage mich wo ich unterteilt werde..."
 
 # game/dialogs.rpy:187
 translate german scene1_696b7e4d:
 
     # s "Well, there are only five sections."
-    s "Well, there are only five sections."
+    s "Ja also es gibt 5 Sektionen."
 
 # game/dialogs.rpy:188
 translate german scene1_029cc297:
 
     # hero "So I'll have a 1-in-5 chance of being in the same section as you!"
-    hero "So I'll have a 1-in-5 chance of being in the same section as you!"
+    hero "Also habe ich eine 1-zu-5 Chance in der selben Sektion zu kommen wie du..."
 
 # game/dialogs.rpy:189
 translate german scene1_c959a464:
@@ -17017,4 +17017,3 @@ translate german strings:
     # dialogs.rpy:4107
     old "Call me \"Big brother\"!"
     new "Call me \"Big brother\"!"
-
