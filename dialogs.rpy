@@ -670,19 +670,19 @@ translate german scene1_029cc297:
 translate german scene1_c959a464:
 
     # "I chuckled a bit and she giggled, a little embarrassed."
-    "I chuckled a bit and she giggled, a little embarrassed."
+    "ich kicherte ein bisschen und sie lächelte schüchtern zurück."
 
 # game/dialogs.rpy:191
 translate german scene1_c152d24c:
 
     # s "My name is Sakura... And yours?"
-    s "My name is Sakura... And yours?"
+    s "Ich bin Sakura... Und du?"
 
 # game/dialogs.rpy:192
 translate german scene1_180ea3e3:
 
     # hero "Name's %(stringhero)s."
-    hero "Name's %(stringhero)s."
+    hero "Ich bin %(stringhero)s."
 
 # game/dialogs.rpy:194
 translate german scene1_abeffde2:
@@ -694,13 +694,13 @@ translate german scene1_abeffde2:
 translate german scene1_77296229:
 
     # s "Nice to meet you, %(stringhero)s-san!"
-    s "Nice to meet you, %(stringhero)s-san!"
+    s "Schön dich kennen zu lernen, %(stringhero)s-san!"
 
 # game/dialogs.rpy:197
 translate german scene1_6ec72dd8:
 
     # hero "Pleased to meet you as well, Sakura-san!"
-    hero "Pleased to meet you as well, Sakura-san!"
+    hero "Ganz meiner seits, Sakura-san!"
 
 # game/dialogs.rpy:198
 translate german scene1_548f585d:
